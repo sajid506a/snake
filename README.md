@@ -2,7 +2,7 @@
 
 A keyboard snake game built with TypeScript and Canvas 2D. Two CRT palettes, a walls toggle, and a high score saved in the browser.
 
-Play: https://sajid506a.github.io/sajid506a.snake.github.io/
+Play: https://sajid506a.github.io/snake/
 
 ## Controls
 
