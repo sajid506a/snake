@@ -1,0 +1,17 @@
+{
+  "name": "bun-snake-game",
+  "version": "1.0.0",
+  "description": "A keyboard snake game built with TypeScript, HTML5 Canvas, and Bun",
+  "main": "index.ts",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "bun --watch index.ts",
+    "start": "bun index.ts",
+    "build": "bun build src/game.ts --outfile=bundle.js --target=browser"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
